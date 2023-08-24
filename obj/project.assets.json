@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CDS2\\.nuget\\packages\\": {},
+    "C:\\Users\\CT-7\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CDS2\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\laboratorio-i-pe-jth2121user.csproj",
+      "projectUniqueName": "c:\\Users\\CT-7\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\laboratorio-i-pe-jth2121user.csproj",
       "projectName": "laboratorio-i-pe-jth2121user",
-      "projectPath": "C:\\Users\\CDS2\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\laboratorio-i-pe-jth2121user.csproj",
-      "packagesPath": "C:\\Users\\CDS2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CDS2\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\obj\\",
+      "projectPath": "c:\\Users\\CT-7\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\laboratorio-i-pe-jth2121user.csproj",
+      "packagesPath": "C:\\Users\\CT-7\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\CT-7\\Desktop\\Laboratorio1\\laboratorio-i-pe-jth2121user\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CDS2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CT-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
